@@ -2,7 +2,7 @@
 layout:		post
 title:      "用Jekyll在Github Pages上创建博客"
 author:     "Joemsu"
-header-img: "img/post-bg-04.jpg"
+header-img: "img/post-bg-07.jpg"
 date:       2015-12-11 17:00:00
 tags:       Jekyll Windows
 ---
