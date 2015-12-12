@@ -1,13 +1,11 @@
 # Site settings
-title: Clean Blog
+title: Joemsu Blog
 header-img: img/home-bg.jpg
 email: 834083224@qq.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Thinking instead of asking"
 baseurl: "/Joemsu"
 url: "http://joemsu.github.io"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+github_username:  Joemsu
 
 # Build settings
 markdown: kramdown
