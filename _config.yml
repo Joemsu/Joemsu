@@ -29,5 +29,5 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "哎哟，卧槽。"
+sidebar-about-description: "哎哟，这个流弊！"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
