@@ -4,7 +4,9 @@ title:      "用Jekyll在Github Pages上创建博客"
 author:     "Joemsu"
 header-img: "img/post-bg-07.jpg"
 date:       2015-12-11 17:00:00
-tags:       Jekyll Windows
+tags:       
+    - Jekyll
+    - Windows
 ---
 
 &#160; &#160; &#160; &#160;前几天M2MBOB跟我说jekyll能放在github pages上写博客，挺好用的。就趁着上班的时候把事情早点做完研究了一下。发现写起来挺方便的，就记录一下安装的过程以及碰到的一些问题为以后换电脑重新配置时好查阅一点。
